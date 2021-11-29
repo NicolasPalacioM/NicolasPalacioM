@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nicolas Palacio
+- 👀 I’m interested in blockchain engineering and web design
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on web design projects
+- 📫 How to reach me: nicolasarturo204@gmail.com
